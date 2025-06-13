@@ -23,7 +23,12 @@ FitNIQUE is an AI-powered health and fitness platform inspired by my passion for
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]![Image](https://github.com/user-attachments/assets/18660c43-71e8-4ebf-8155-4e735338e069)
+![Image](https://github.com/user-attachments/assets/8a513daa-3499-4789-b47c-4bf7626174e2)
+![Image](https://github.com/user-attachments/assets/a46f0db4-664c-45fb-ad89-f24794d8fe45)
+![Image](https://github.com/user-attachments/assets/85813c72-3af0-4507-ac52-51fece4282f8)
+![Image](https://github.com/user-attachments/assets/69e1a6fa-d1b5-4147-82b3-9f80d6779a5e)
+![Image](https://github.com/user-attachments/assets/1ca872fe-d735-4889-96ad-2780374157dc)
 
 
 ## Authors
